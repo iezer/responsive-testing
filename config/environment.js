@@ -3,6 +3,7 @@
 module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'responsive-testing',
+    podModulePrefix: 'responsive-testing/pods',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
